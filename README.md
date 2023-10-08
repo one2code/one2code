@@ -18,7 +18,7 @@ I'm a fullstack product developer currently working with Typescript, Next.js, No
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=one2code&theme=one_dark_pro&size_weight=0.5&count_weight=0.5&langs_count=6" alt="Top Langs"></td>
   </tr>
 </table>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=one2code&theme=one_dark_pro&hide_border=true" alt="streak" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=one2code&theme=one-dark-pro" alt="GitHub Streak" /></a>
 </div>
 
 
