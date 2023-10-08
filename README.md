@@ -2,7 +2,7 @@
 
 **`Fullstack Product Developer`**
 
-I'm a fullstack product developer currently working with Typescript, Next.js, Node, Express, Postgres, and Firebase. In my freetime, I enjoy writing Python and learning more Go. Likewise, I enjoy dabbling in C and Rust. Outside of web development, I'm interested in systems level programming and AI. I aspire to become a software engineer.
+I'm a fullstack product developer currently working with Typescript, Next.js, Node, Express, Postgres, and Firebase. In my freetime, I enjoy writing Python and learning more Go. Likewise, I enjoy dabbling in C and Rust. Outside of web development, I'm interested in systems level programming and AI. 
 
 [![My Skills](https://skillicons.dev/icons?i=linux,python,c,go,html,css,sass,js,ts,react,next,nodejs,express,postgres,sqlite,firebase,supabase,mongo,docker,bash,bootstrap,tailwind,materialui,git,markdown)](https://skillicons.dev)
 
